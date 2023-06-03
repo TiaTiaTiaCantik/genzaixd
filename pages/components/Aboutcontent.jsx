@@ -22,21 +22,16 @@ export default function Aboutcontent() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 0.8, duration: 1 }}
           >
-            Vikash Khati
+            GenzaiXd
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ delay: 1, duration: 1 }}
           >
-            \English
             name : genzai666
             status : undefined
             country : central java, Indonesia
-            \Indonesia
-            nama : genzai666
-            status : undefined
-            alamat : pemalang, jawa tengah, Indonesia
           </motion.p>
         </div>
       </div>
