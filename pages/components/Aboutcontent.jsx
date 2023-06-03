@@ -6,7 +6,7 @@ export default function Aboutcontent() {
       <div className="aboutborder">
         <div className="aboutcontent">
           <motion.img
-            src="https://telegra.ph/file/881884ae636e4ba437a5a.jpg"
+            src="https://telegra.ph/file/49902e18f11c139982077.jpg"
             alt=""
             initial={{ y: 20 }}
             animate={{ y: 0 , boxShadow: "0px 0px 0px 2px white"}}
