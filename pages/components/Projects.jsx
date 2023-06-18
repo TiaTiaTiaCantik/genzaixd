@@ -5,7 +5,7 @@ export default function Projects() {
     <>
       <div className="projectscontainer">
         <div className="projectborder">
-          <img src="https://telegra.ph/file/6105567ccd68513eb8ce5.jpg" alt="Social Media" />
+          <img src="https://telegra.ph/file/db373f7cf52513c97fe76.jpg" alt="Social Media" />
         <Link href="https://teer.id/genzai" target="_blank">
         <CgMoreO className="visiticon"/>
         </Link>
